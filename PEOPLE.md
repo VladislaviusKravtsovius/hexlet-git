@@ -1,2 +1,0 @@
-Hackell Curry
-new line
