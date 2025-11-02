@@ -1,2 +1,1 @@
-Hackell Curry
-new line
+No code No pain
